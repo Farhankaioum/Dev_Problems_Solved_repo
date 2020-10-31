@@ -12,6 +12,7 @@
 *.vs
 **.suo
 **.vs
+**.ini
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
