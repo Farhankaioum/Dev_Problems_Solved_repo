@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendingLibraryDemo", "LendingLibraryDemo\LendingLibraryDemo.csproj", "{0082BBD0-1B34-40AC-96E3-881C74C58E44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDesignDemo.Console", "LendingLibraryDemo\ClassDesignDemo.Console.csproj", "{0082BBD0-1B34-40AC-96E3-881C74C58E44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
