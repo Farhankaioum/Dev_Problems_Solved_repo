@@ -1,0 +1,13 @@
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.exe
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.deps.json
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.runtimeconfig.json
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.runtimeconfig.dev.json
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.dll
+I:\DS\qs\QS\QS.Console\bin\Debug\netcoreapp3.1\QS.Console.pdb
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.csprojAssemblyReference.cache
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.AssemblyInfoInputs.cache
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.AssemblyInfo.cs
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.csproj.CoreCompileInputs.cache
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.dll
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.pdb
+I:\DS\qs\QS\QS.Console\obj\Debug\netcoreapp3.1\QS.Console.genruntimeconfig.cache
