@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeForceProblem", "CodeFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{D2FAA03D-AE0C-4AE3-9EB8-1AE99038520A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{1024F51F-6AE7-45B9-8D4D-6490711A28B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D2FAA03D-AE0C-4AE3-9EB8-1AE99038520A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2FAA03D-AE0C-4AE3-9EB8-1AE99038520A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2FAA03D-AE0C-4AE3-9EB8-1AE99038520A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1024F51F-6AE7-45B9-8D4D-6490711A28B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1024F51F-6AE7-45B9-8D4D-6490711A28B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1024F51F-6AE7-45B9-8D4D-6490711A28B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1024F51F-6AE7-45B9-8D4D-6490711A28B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
