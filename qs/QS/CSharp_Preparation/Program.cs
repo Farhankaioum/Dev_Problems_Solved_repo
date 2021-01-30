@@ -6,7 +6,9 @@ namespace CSharp_Preparation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 7;
+            int b = 2;
+            Console.WriteLine(~b);
         }
     }
 }
