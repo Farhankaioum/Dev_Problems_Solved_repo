@@ -6,7 +6,7 @@ namespace BinarySearch
     {
         static void Main(string[] args)
         {
-            int[] arr = { 64, 34, 25, 12, 22, 11, 90 };
+            int[] arr = { 64, 34, 25, 12, 22, 11, 90, 10 };
             Array.Sort(arr);
             var value = 1;
             int foundValue = 0;
