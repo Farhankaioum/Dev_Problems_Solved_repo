@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_Preparation", "CShar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DT-1", "DT-1\DT-1.csproj", "{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellDev", "WellDev\WellDev.csproj", "{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellDev", "WellDev\WellDev.csproj", "{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRelationship", "TestRelationship\TestRelationship.csproj", "{9EDBA8A1-405E-497A-B112-2247D117AC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
