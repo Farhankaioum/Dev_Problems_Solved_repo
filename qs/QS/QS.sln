@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRND", "JsonRND\JsonRND.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_Preparation", "CSharp_Preparation\CSharp_Preparation.csproj", "{FE20D2D5-9CF1-4A80-8EDA-1425979B4EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DT-1", "DT-1\DT-1.csproj", "{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DT-1", "DT-1\DT-1.csproj", "{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellDev", "WellDev\WellDev.csproj", "{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB1F790-FCF9-4F07-A870-CB4499E9DF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B8A51F-E812-4A7D-A319-7059D44BF7A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
