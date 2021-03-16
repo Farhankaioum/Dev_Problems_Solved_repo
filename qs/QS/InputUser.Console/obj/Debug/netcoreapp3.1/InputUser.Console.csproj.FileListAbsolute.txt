@@ -11,3 +11,16 @@ I:\DS\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.csproj.C
 I:\DS\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.dll
 I:\DS\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.pdb
 I:\DS\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.genruntimeconfig.cache
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.exe
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.deps.json
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.runtimeconfig.json
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.runtimeconfig.dev.json
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.dll
+I:\2_ProblemSolved\qs\QS\InputUser.Console\bin\Debug\netcoreapp3.1\InputUser.Console.pdb
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.csprojAssemblyReference.cache
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.AssemblyInfoInputs.cache
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.AssemblyInfo.cs
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.csproj.CoreCompileInputs.cache
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.dll
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.pdb
+I:\2_ProblemSolved\qs\QS\InputUser.Console\obj\Debug\netcoreapp3.1\InputUser.Console.genruntimeconfig.cache

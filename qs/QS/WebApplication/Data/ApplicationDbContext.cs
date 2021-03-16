@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using WebApplication.Models;
 
 namespace WebApplication.Data
 {
@@ -12,5 +10,19 @@ namespace WebApplication.Data
             : base(options)
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<User>()
+                .HasOne(u => u.Address)
+                .WithOne(a => a.User)
+                .HasForeignKey<Address>(ab => ab.UserId);
+
+            base.OnModelCreating(builder);
+        }
+
+        public DbSet<User> Userss { get; set; }
+        public DbSet<Address> Addresses { get; set; }
+
     }
 }
