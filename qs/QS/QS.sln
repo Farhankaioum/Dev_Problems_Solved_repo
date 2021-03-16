@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellDev", "WellDev\WellDev.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRelationship", "TestRelationship\TestRelationship.csproj", "{9EDBA8A1-405E-497A-B112-2247D117AC00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{0E60A59F-8CAD-40F4-B71F-17DA48D29204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EDBA8A1-405E-497A-B112-2247D117AC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E60A59F-8CAD-40F4-B71F-17DA48D29204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E60A59F-8CAD-40F4-B71F-17DA48D29204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E60A59F-8CAD-40F4-B71F-17DA48D29204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E60A59F-8CAD-40F4-B71F-17DA48D29204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
