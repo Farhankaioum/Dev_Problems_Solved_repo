@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\2_ProblemSolved\\qs\\QS\\QS.Console\\QS.Console.csproj",
+      "projectUniqueName": "J:\\2_ProblemSolved\\qs\\QS\\QS.Console\\QS.Console.csproj",
       "projectName": "QS.Console",
-      "projectPath": "I:\\2_ProblemSolved\\qs\\QS\\QS.Console\\QS.Console.csproj",
+      "projectPath": "J:\\2_ProblemSolved\\qs\\QS\\QS.Console\\QS.Console.csproj",
       "packagesPath": "C:\\Users\\Farhan Ahmed\\.nuget\\packages\\",
-      "outputPath": "I:\\2_ProblemSolved\\qs\\QS\\QS.Console\\obj\\",
+      "outputPath": "J:\\2_ProblemSolved\\qs\\QS\\QS.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Farhan Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

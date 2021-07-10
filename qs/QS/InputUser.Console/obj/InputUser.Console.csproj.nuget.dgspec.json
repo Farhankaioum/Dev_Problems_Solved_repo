@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj": {}
+    "J:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj": {}
   },
   "projects": {
-    "I:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj": {
+    "J:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj",
+        "projectUniqueName": "J:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj",
         "projectName": "InputUser.Console",
-        "projectPath": "I:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj",
+        "projectPath": "J:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\InputUser.Console.csproj",
         "packagesPath": "C:\\Users\\Farhan Ahmed\\.nuget\\packages\\",
-        "outputPath": "I:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\obj\\",
+        "outputPath": "J:\\2_ProblemSolved\\qs\\QS\\InputUser.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farhan Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
